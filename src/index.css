@@ -11,3 +11,47 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.App{
+  padding: 5px;
+}
+.brand_logo{
+  padding: 12px;
+  width: 100%;
+  height: 70%;
+  aspect-ratio: 3/4;
+  object-fit: contain;
+}
+.brand_logo1{
+  padding: 12px;
+  width: 150px;
+  height:150px;
+  aspect-ratio: 3/4;
+  object-fit: contain;
+}
+
+.card{
+  width: 285px !important;
+  height: 150px !important;
+  border: 1px solid grey;
+  margin: 10px;
+  border-radius: 10px;
+  
+}
+.card:hover{
+  box-shadow: 1px 3px 4px rgb(218, 216, 216);
+  transition:  linear 500ms;
+}
+.card h5{
+  color: grey;
+}
+.cars_card{
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin: 5px;
+}
+.car_card img{
+  aspect-ratio: 3/4;
+  padding: 5px;
+
+  object-fit: contain;
+}

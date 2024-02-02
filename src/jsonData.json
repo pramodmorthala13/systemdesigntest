@@ -1,0 +1,326 @@
+{
+    "carBrands": [
+        {
+            "id": 1,
+            "car_brand": "Maruthi",
+            "brand_logo": "https://www.carlogos.org/logo/Suzuki-logo-640x285.jpg"
+        },
+        {
+            "id": 2,
+            "car_brand": "BMW",
+            "brand_logo": "https://www.carlogos.org/car-logos/bmw-logo-2020-gray.png"
+        },
+        {
+            "id": 3,
+            "car_brand": "Hyundai",
+            "brand_logo": "https://www.carlogos.org/car-logos/hyundai-logo-2011-640.png"
+        },
+        {
+            "id": 4,
+            "car_brand": "Renault",
+            "brand_logo": "https://www.carlogos.org/logo/Renault-logo-2015-640x550.jpg"
+        },
+        {
+            "id": 5,
+            "car_brand": "Honda",
+            "brand_logo": "https://www.carlogos.org/car-logos/honda-logo-2000-full-640.png"
+        },
+        {
+            "id": 6,
+            "car_brand": "Tata",
+            "brand_logo": "https://www.carlogos.org/logo/Tata-logo-2000-640x550.jpg"
+        },
+        {
+            "id": 7,
+            "car_brand": "Ford",
+            "brand_logo": "https://www.carlogos.org/car-logos/ford-logo-2017-640.png"
+        },
+        {
+            "id": 8,
+            "car_brand": "Volkswagen",
+            "brand_logo": "https://www.carlogos.org/logo/Volkswagen-logo-2019-640x500.jpg"
+        },
+        {
+            "id": 9,
+            "car_brand": "Mahindra",
+            "brand_logo": "https://www.carlogos.org/logo/Mahindra-logo-640x316.jpg"
+        },
+        {
+            "id": 10,
+            "car_brand": "Toyota",
+            "brand_logo": "https://www.carlogos.org/car-logos/toyota-logo-2020-europe-640.png"
+        },
+        {
+            "id": 11,
+            "car_brand": "Mercedes-Benz",
+            "brand_logo": "https://www.carlogos.org/logo/Mercedes-Benz-logo-2011-640x369.jpg"
+        },
+        {
+            "id": 12,
+            "car_brand": "",
+            "brand_logo": "https://static.vecteezy.com/system/resources/previews/022/891/459/original/read-more-3d-render-transparent-background-click-button-png.png"
+        }
+    ],
+    "carsData": [
+        {
+            "carId": 1,
+            "brand": "Ford",
+            "location": "Hyderabad",
+            "color": "Pink",
+            "owner": "1",
+            "yearOfManufacture": "2006",
+            "Transmission": "Automatic",
+            "insurance": "1991",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 2,
+            "brand": "Dodge",
+            "location": "Chennai",
+            "color": "Mauv",
+            "owner": "3",
+            "yearOfManufacture": "1997",
+            "Transmission": "Manual",
+            "insurance":"2002",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 3,
+            "brand": "Kia",
+            "location": "Bengaluru",
+            "color": "Purple",
+            "owner": "3",
+            "yearOfManufacture": "1999",
+            "Transmission": "Manual",
+            "insurance": "1999",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 4,
+            "brand": "Lincoln",
+            "location": "Bengaluru",
+            "color": "Yellow",
+            "owner": "2",
+            "yearOfManufacture":"2012",
+            "Transmission": "Automatic",
+            "insurance": "2000",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 5,
+            "brand": "Subaru",
+            "location": "Bengaluru",
+            "color": "Mauv",
+            "owner": "2",
+            "yearOfManufacture": "2007",
+            "Transmission": "Automatic",
+            "insurance": "2006",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 6,
+            "brand": "Pontiac",
+            "location": "Bengaluru",
+            "color": "Teal",
+            "owner": "3",
+            "yearOfManufacture": "1984",
+            "Transmission": "Manual",
+            "insurance": "2009",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 7,
+            "brand": "Toyota",
+            "location": "Bengaluru",
+            "color": "Turquoise",
+            "owner": "1",
+            "yearOfManufacture": "2009",
+            "Transmission": "Manual",
+            "insurance": "1993",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 8,
+            "brand": "Isuzu",
+            "location": "Chennai",
+            "color": "Goldenrod",
+            "owner": "1",
+            "yearOfManufacture": "2005",
+            "Transmission": "Automatic",
+            "insurance": "1985",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 9,
+            "brand": "Pontiac",
+            "location": "Chennai",
+            "color": "Blue",
+            "owner": "2",
+            "yearOfManufacture": "2005",
+            "Transmission": "Automatic",
+            "insurance": "2012",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 10,
+            "brand": "Saab",
+            "location": "Chennai",
+            "color": "Yellow",
+            "owner": "3",
+            "yearOfManufacture": "2003",
+            "Transmission": "Manual",
+            "insurance": "2000",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 11,
+            "brand": "Lexus",
+            "location": "Chennai",
+            "color": "Khaki",
+            "owner": "2",
+            "yearOfManufacture": "2003",
+            "Transmission": "Manual",
+            "insurance": "1995",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 12,
+            "brand": "Nissan",
+            "location": "Chennai",
+            "color": "Puce",
+            "owner": "2",
+            "yearOfManufacture": "2003",
+            "Transmission": "Manual",
+            "insurance": "1993",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 13,
+            "brand": "Lexus",
+            "location": "Hyderabad",
+            "color": "Purple",
+            "owner": "2",
+            "yearOfManufacture": "2009",
+            "Transmission": "Automatic",
+            "insurance": "1988",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 14,
+            "brand": "Buick",
+            "location": "Hyderabad",
+            "color": "Purple",
+            "owner": "3",
+            "yearOfManufacture": "1988",
+            "Transmission": "Manual",
+            "insurance": "1998",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 15,
+            "brand": "Dodge",
+            "location": "Hyderabad",
+            "color": "Indigo",
+            "owner": "2",
+            "yearOfManufacture": "2005",
+            "Transmission": "Manual",
+            "insurance": "2009",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 16,
+            "brand": "Mercedes-Benz",
+            "location": "Hyderabad",
+            "color": "Purple",
+            "owner": "2",
+            "yearOfManufacture": "1991",
+            "Transmission": "Manual",
+            "insurance": "2012",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 17,
+            "brand": "Mercedes-Benz",
+            "location": "Hyderabad",
+            "color": "Green",
+            "owner": "3",
+            "yearOfManufacture": "1989",
+            "Transmission": "Manual",
+            "insurance": "2008",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 18,
+            "brand": "Suzuki",
+            "location": "Hyderabad",
+            "color": "Pink",
+            "owner": "3",
+            "yearOfManufacture": "1991",
+            "Transmission": "Manual",
+            "insurance": "2011",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 19,
+            "brand": "GMC",
+            "location": "Hyderabad",
+            "color": "Turquoise",
+            "owner": "1",
+            "yearOfManufacture": "1997",
+            "Transmission": "Manual",
+            "insurance": "2004",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        },
+        {
+            "carId": 20,
+            "brand": "Isuzu",
+            "location": "Hyderabad",
+            "color": "Red",
+            "owner": "2",
+            "yearOfManufacture": "1997",
+            "Transmission": "Manual",
+            "insurance": "1997",
+            "fitment": "",
+            "kms": "",
+            "photo": ""
+        }
+    ]
+}
